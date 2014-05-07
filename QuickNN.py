@@ -18,6 +18,7 @@
 
 
 TODO:
+    - Build-in help (command-line arguments)
     - Function to pickle dump trained weights
     - Function to load saved weights
 
