@@ -7,7 +7,7 @@ This was written some time ago (a couple of years) and hasn't been thoroughly te
 It certainly finds good solutions, so it's doing something right.
 
 #2. Usage
-**Under construction**
+*Under construction*
 
 #3. Dependencies
 1. [numpy][1]
